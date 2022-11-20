@@ -10,7 +10,7 @@ October 2022 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 <br>
 
-## <a href="https://github.com/cjabradshaw/InvaCostDamMgmRatio/tree/main/scripts">Scripts</a>
+## <a href="https://github.com/cjabradshaw/deerCullShotgun/tree/main/scripts">Scripts</a>
 - <code>deerCull.R</code>: main R code for analysis
 - <code>new_lmer_AIC_tables3.R</code>: source code for information-theoretic algorithms
 - <code>r.squared.R</code>: source code for calculating goodness-of-fit for linear models (including mixed-effects models)
