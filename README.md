@@ -10,13 +10,15 @@ October 2022 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 <br>
 
-Accompanies report:
-
-Bradshaw, CJA, B Page, M Tarran, A Scanlon, K Fielder, S Bourne, M Stevens, P Schulz, R Matthews, C Findlay, W White, C Leehane, B Conibear, T Rowley. 2022. Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes. Government of South Australia, Adelaide.
-
-and preprint:
+Accompanies preprint:
 
 Bradshaw, CJA, A Doube, A Scanlon, B Page, M Tarran, K Fielder, L Andrews, S Bourne, M Stevens, P Schulz, T Kloeden, S Drewer, R Matthews, C Findlay, W White, C Leehane, B Conibear, J Doube, T Rowley. 2023. <a href="http://doi.org/10.3897/arphapreprints.e101198">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. <em>ARPHA Preprints</em> doi:10.3897/arphapreprints.e101198 (in review in <em>NeoBiota</em>)
+
+and report:
+
+Bradshaw, CJA, B Page, M Tarran, A Scanlon, K Fielder, S Bourne, M Stevens, P Schulz, R Matthews, C Findlay, W White, C Leehane, B Conibear, T Rowley. 2022. <a href="https://www.pir.sa.gov.au/__data/assets/pdf_file/0004/431248/Aerial_culling_of_feral_fallow_deer_with_a_shotgun.pdf">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. Government of South Australia, Adelaide.
+
+
 
 
 ### Abstract
