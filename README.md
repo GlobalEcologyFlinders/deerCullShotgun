@@ -12,7 +12,7 @@ October 2022 <br>
 
 Accompanies preprint:
 
-Bradshaw, CJA, A Doube, A Scanlon, B Page, M Tarran, K Fielder, L Andrews, S Bourne, M Stevens, P Schulz, T Kloeden, S Drewer, R Matthews, C Findlay, W White, C Leehane, B Conibear, J Doube, T Rowley. 2023. <a href="http://doi.org/10.3897/arphapreprints.e101198">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. <em>ARPHA Preprints</em> doi:10.3897/arphapreprints.e101198 (in review in <a href="https://neobiota.pensoft.net"><em>NeoBiota</em></a>)
+Bradshaw, CJA, A Doube, <a href="https://www.researchgate.net/profile/Annette-Scanlon">A Scanlon</a>, <a href="https://scholar.google.com.au/citations?hl=en&user=Qv19EfwAAAAJ&view_op=list_works">B Page</a>, <a href="https://www.researchgate.net/profile/Myall-Tarran">M Tarran</a>, K Fielder, <a href="https://www.linkedin.com/in/lindell-andrews-51bb59105/">L Andrews</a>, S Bourne, M Stevens, P Schulz, T Kloeden, S Drewer, R Matthews, C Findlay, W White, C Leehane, B Conibear, J Doube, T Rowley. 2023. <a href="http://doi.org/10.3897/arphapreprints.e101198">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. <em>ARPHA Preprints</em> doi:10.3897/arphapreprints.e101198 (in review in <a href="https://neobiota.pensoft.net"><em>NeoBiota</em></a>)
 
 report:
 
