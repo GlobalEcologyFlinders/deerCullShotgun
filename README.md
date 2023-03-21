@@ -44,6 +44,14 @@ Invasive alien deer (hereafter, ‘feral deer’) are some of Australia’s wors
 - <a href="https://feraldeerplan.org.au/the-plan/">National Feral Deer Action Plan</a>
 - <a href="https://www.feralscan.org.au/deerscan/">DeerScan</a>
 
+## Further reading
+- Bengsen <em>et al</em>. 2022. <a href="http://doi.org/10.1071/WR21156">Effectiveness and costs of helicopter-based shooting of deer</a>. <em>Wildl Res</em> doi:10.1071/WR21156
+- Cox <em>et al</em>. 2022. <a href="http://doi.org/10.22541/au.165633745.51007622/v2">Thermal-assisted aerial culling (TAAC) for the improved control of vertebrate pest animal populations</a>. <em>Authorea</em> doi:10.22541/au.165633745.51007622/v2
+- Cripps <em>et al</em>. 2019. <a href="http://doi.org/10.1111/mam.12142">Introduced deer and their potential role in disease transmission to livestock in Australia</a>. <em>Mamm Rev</em> 49:60-67. doi:10.1111/mam.12142
+- Hampton <em>et al</em>. 2022. <a href="http://doi.org/10.1071/WR21069">Animal welfare outcomes of helicopter-based shooting of deer in Australia</a>. <em>Mamm Rev</em> 49:264-273. doi:10.1071/WR21069
+- Pulsford <em>et al</em>. 2023. <a href="http://doi.org/10.1111/emr.12569">Managing vertebrate pest sambar deer at low abundance in mountains</a>. <em>Ecol Manage Restor</em> 23:261-270. doi:10.1111/emr.12569
+
+
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://pir.sa.gov.au/"><img align="bottom-left" src="www/pirsalogo.png" alt="PIRSA" width="100" style="margin-top: 20px"></a>
 
