@@ -10,15 +10,15 @@ October 2022 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 <br>
 
-Accompanies <u>preprint</u>:
+Accompanies <em>preprint</em>:
 
 <a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, <a href="mailto:libandandy@gmail.com">A Doube</a>, <a href="https://www.researchgate.net/profile/Annette-Scanlon">A Scanlon</a>, <a href="https://scholar.google.com.au/citations?hl=en&user=Qv19EfwAAAAJ&view_op=list_works">B Page</a>, <a href="https://www.researchgate.net/profile/Myall-Tarran">M Tarran</a>, <a href="mailto:Kate.Fielder@sa.gov.au">K Fielder</a>, <a href="https://www.linkedin.com/in/lindell-andrews-51bb59105/">L Andrews</a>, <a href="mailto:Steve.Bourne@sa.gov.au">S Bourne</a>, <a href="mailto:Mike.Stevens@sa.gov.au">M Stevens</a>, <a href="mailto:penny@schulzlivestock.com.au">P Schulz</a>, <a href="mailto:Thomas.Kloeden@sa.gov.au">T Kloeden</a>, <a href="mailto:Seb.Drewer@sa.gov.au">S Drewer</a>, <a href="mailto:rob@helisurveys.com.au">R Matthews</a>, <a href="mailto:chris@helisurveys.com.au">C Findlay</a>, <a href="mailto:wildlife.resources@outlook.com">W White</a>, <a href="mailto:craigleehane@gmail.com">C Leehane</a>, <a href="mailto:brett@sako.net.au">B Conibear</a>, <a href="mailto:James.Doube@sa.gov.au">J Doube</a>, <a href="mailto:ted.rowley@iinet.net.au">T Rowley</a>. 2023. <a href="http://doi.org/10.3897/arphapreprints.e101198">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. <em>ARPHA Preprints</em> doi:10.3897/arphapreprints.e101198 (in review in <a href="https://neobiota.pensoft.net"><em>NeoBiota</em></a>)
 
-<u>report</u>:
+<em>report</em>:
 
 Bradshaw, CJA, B Page, M Tarran, A Scanlon, K Fielder, S Bourne, M Stevens, P Schulz, R Matthews, C Findlay, W White, C Leehane, B Conibear, T Rowley. 2022. <a href="https://www.pir.sa.gov.au/__data/assets/pdf_file/0004/431248/Aerial_culling_of_feral_fallow_deer_with_a_shotgun.pdf">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. Government of South Australia, Adelaide.
 
-and <u>blog post</u>:
+and <em>blog post</em>:
 
 Bradshaw, CJA. 2023. <a href="https://conservationbytes.com/2023/02/24/better-codes-of-practice-for-control-of-feral-animals/">Better codes of practice for control of feral animals</a>. <em>ConservationBytes</em>
 
