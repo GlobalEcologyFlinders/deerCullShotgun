@@ -14,11 +14,13 @@ Accompanies preprint:
 
 Bradshaw, CJA, A Doube, A Scanlon, B Page, M Tarran, K Fielder, L Andrews, S Bourne, M Stevens, P Schulz, T Kloeden, S Drewer, R Matthews, C Findlay, W White, C Leehane, B Conibear, J Doube, T Rowley. 2023. <a href="http://doi.org/10.3897/arphapreprints.e101198">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. <em>ARPHA Preprints</em> doi:10.3897/arphapreprints.e101198 (in review in <a href="https://neobiota.pensoft.net"><em>NeoBiota</em></a>)
 
-and report:
+report:
 
 Bradshaw, CJA, B Page, M Tarran, A Scanlon, K Fielder, S Bourne, M Stevens, P Schulz, R Matthews, C Findlay, W White, C Leehane, B Conibear, T Rowley. 2022. <a href="https://www.pir.sa.gov.au/__data/assets/pdf_file/0004/431248/Aerial_culling_of_feral_fallow_deer_with_a_shotgun.pdf">Aerial culling feral fallow deer with shotguns improves efficiency and welfare outcomes</a>. Government of South Australia, Adelaide.
 
+and blog post:
 
+Bradshaw, CJA. 2023. <a href="https://conservationbytes.com/2023/02/24/better-codes-of-practice-for-control-of-feral-animals/">Better codes of practice for control of feral animals</a>. <em>ConservationBytes</em>
 
 
 ### Abstract
