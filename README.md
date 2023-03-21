@@ -40,5 +40,5 @@ Invasive alien deer (hereafter, ‘feral deer’) are some of Australia’s wors
 - <code>sjPlot</code>
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://pir.sa.gov.au/"><img align="bottom-left" src="www/pirsalogo.png" alt="PIRSA" width="150" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://pir.sa.gov.au/"><img align="bottom-left" src="www/pirsalogo.png" alt="PIRSA" width="100" style="margin-top: 20px"></a>
 
