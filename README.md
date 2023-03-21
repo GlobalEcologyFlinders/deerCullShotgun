@@ -39,6 +39,11 @@ Invasive alien deer (hereafter, ‘feral deer’) are some of Australia’s wors
 - <code>performance</code>
 - <code>sjPlot</code>
 
+## More about feral deer in Australia
+- <a href="https://pir.sa.gov.au/biosecurity/introduced-pest-feral-animals/find_a_pest_animal/deer">Feral deer in South Australia</a> (PIRSA)
+- <a href="https://feraldeerplan.org.au/the-plan/">National Feral Deer Action Plan</a>
+- <a href="https://www.feralscan.org.au/deerscan/">DeerScan</a>
+
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://pir.sa.gov.au/"><img align="bottom-left" src="www/pirsalogo.png" alt="PIRSA" width="100" style="margin-top: 20px"></a>
 
